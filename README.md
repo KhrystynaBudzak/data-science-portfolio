@@ -1,5 +1,3 @@
-# data-science-portfolio
-
 # Data Science Portfolio
 Data Science Student at ISCTE.
 
