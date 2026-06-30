@@ -1,28 +1,43 @@
 # data-science-portfolio
 
 # Data Science Portfolio
-🎓 Estudante de Ciência de Dados no ISCTE.
+Data Science Student at ISCTE.
 
-Neste portefólio partilho projetos de análise de dados, SQL, Machine Learning e visualização de dados desenvolvidos durante a licenciatura e em projetos pessoais.
+This portfolio showcases projects in Data Analysis, SQL, Machine Learning, and Data Visualization developed throughout my degree and personal learning journey.
 
-## Competências
+## Skills
 
 - Python
 - SQL
 - Machine Learning
-- Estatística
+- Statistics
 - Power BI
 - Excel
 
-## Projetos
+## Projects
 
-### 📊 Análise de Dados
-Em desenvolvimento.
+### Parking Management System
+A Python-based parking lot management system featuring file handling, object-oriented programming, and advanced data structures.
+
+**Technologies:** Python, OOP, Data Structures, File Handling
+
+🔗 Repository:  
+https://github.com/KhrystynaBudzak/parking-management-system
+
+### 📊 Data Analysis
+
+Projects focused on data cleaning, exploration, visualization, and insights generation.
+
+*Coming soon.*
 
 ### 🤖 Machine Learning
-Em desenvolvimento.
+
+Projects involving predictive modeling, classification, and data-driven decision making.
+
+*Coming soon.*
 
 ### 🗄️ SQL
-Em desenvolvimento.
 
+Projects focused on database design, querying, and business data analysis.
 
+*Coming soon.*
