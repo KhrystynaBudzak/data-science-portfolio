@@ -22,19 +22,25 @@ A Python-based parking lot management system featuring file handling, object-ori
 🔗 Repository:  
 https://github.com/KhrystynaBudzak/parking-management-system
 
-### 📊 Data Analysis
 
-Projects focused on data cleaning, exploration, visualization, and insights generation.
+### Airbnb Price Prediction in Athens
 
-*Coming soon.*
+Regression analysis project developed in R using Airbnb data from Athens.
+The project explores the factors that influence Airbnb listing prices and develops predictive models using statistical and regression techniques.
 
-### 🤖 Machine Learning
+**Technologies:** R, Statistical Modeling, Regression Analysis, Data Visualization
+
+🔗 Repository:
+https://github.com/KhrystynaBudzak/airbnb-price-prediction-athens
+
+
+### Machine Learning
 
 Projects involving predictive modeling, classification, and data-driven decision making.
 
 *Coming soon.*
 
-### 🗄️ SQL
+### SQL
 
 Projects focused on database design, querying, and business data analysis.
 
